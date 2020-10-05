@@ -1,13 +1,26 @@
 === Custom WP Mail Sender ===
-Contributors: Upperloft Creations, Patrick Aziken
+Contributors: upperloftctns
+Donate Link: https://dashboard.flutterwave.com/donate/kulwfx45tnye
 Tags: Custom email sender, custom mail sender, change wordpress mail sender change mail Sender name, change mail sender email, wordpress default mail sender change, change from email and name, change from wordpress email name.
 Requires at least: 3.0.1
-Stable tag: 1.2.2
+Stable tag: 1.0.0
 Tested up to: 5.5.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-# Custom WP Mail Sender
+== Changelog ==
+v1.0.0= First release
+
+== Upgrade Notice ==
+
+=== Frequently Asked Questions ===
+1. Will this plugin tamper with core WordPress files
+Ans= No, it won't
+
+2. Will my settings be reset after a plugin update?
+Ans= Not, it won't. Your settings will remain intact.
+
+== Description ==
 This plugin allows you to set a custom mail sender for WordPress. Instead of the default mail sender carrying the WordPress name, you can set the mail sender to your website name and set a custom email address as the "from" email address. This is useful but not limited to the following reasons:
 
 1. You don't want people to know you are using WordPress as your website content management system :D
