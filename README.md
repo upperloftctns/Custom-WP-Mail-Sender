@@ -6,6 +6,6 @@ This plugin allows you to set a custom mail sender for WordPress. Instead of the
 3. You want to improve your website and email reputation
 Of course, this is just our own view. There may be more reasons. :D
 
-This plugin is a fork of the original plugin CB Change Email Sender. Kudos to them. Please donate to them by clicking their donation link
+This plugin is a fork of the original plugin CB Change Email Sender (http://www.codingbank.com). Kudos to them. Please donate to them by clicking their donation link: http://donate.codingbank.com
 
 Enjoy the plugin and please let us know of any issues by raising a ticket on our Github profile or send an email to support@upperloftcreations.com
