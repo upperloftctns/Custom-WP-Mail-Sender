@@ -1,7 +1,7 @@
 <?php 
 
 /*
- * Plugin Name: Custom WordPress Mail Sender (CWMS)
+ * Plugin Name: Custom WP Mail Sender (CWMS)
  * Description: Change the WordPress mail sender name and email to a custom one.
  * Version: 1.0.0
  * Author: Upperloft Creations
