@@ -1,3 +1,12 @@
+=== Custom WP Mail Sender ===
+Contributors: Upperloft Creations, Patrick Aziken
+Tags: Custom email sender, custom mail sender, change wordpress mail sender change mail Sender name, change mail sender email, wordpress default mail sender change, change from email and name, change from wordpress email name.
+Requires at least: 3.0.1
+Stable tag: 1.2.2
+Tested up to: 5.5.1
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
 # Custom WP Mail Sender
 This plugin allows you to set a custom mail sender for WordPress. Instead of the default mail sender carrying the WordPress name, you can set the mail sender to your website name and set a custom email address as the "from" email address. This is useful but not limited to the following reasons:
 
@@ -9,3 +18,15 @@ Of course, this is just our own view. There may be more reasons. :D
 This plugin is a fork of the original plugin CB Change Email Sender (http://www.codingbank.com). Kudos to them. Please donate to them by clicking their donation link: http://donate.codingbank.com
 
 Enjoy the plugin and please let us know of any issues by raising a ticket on our Github profile or send an email to support@upperloftcreations.com
+
+# How to use
+1. Login to your WordPress dashboard
+2. Go to Plugins > Add new
+3. Search for Custom WP Mail Sender
+4. Click on install
+5. Click on Activate
+6. Look for the CWMS Options menu
+7. Enter a new sender name in the mail sender field
+8. Enter a sender email in the email field
+9. Save your changes
+10. That's it!
