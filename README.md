@@ -1,4 +1,4 @@
-# Custom WordPress Mail Sender
+# Custom WP Mail Sender
 This plugin allows you to set a custom mail sender for WordPress. Instead of the default mail sender carrying the WordPress name, you can set the mail sender to your website name and set a custom email address as the "from" email address. This is useful but not limited to the following reasons:
 
 1. You don't want people to know you are using WordPress as your website content management system :D
